@@ -20,6 +20,7 @@
 		18B3E3AA1C6725930061EE80 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B3E3A91C6725930061EE80 /* SettingsViewController.swift */; };
 		18B3E3AC1C672A1D0061EE80 /* ExistingPhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B3E3AB1C672A1D0061EE80 /* ExistingPhotosViewController.swift */; };
 		18B3E3AE1C672C650061EE80 /* SignInTroubleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B3E3AD1C672C650061EE80 /* SignInTroubleViewController.swift */; };
+		18B3E3B21C67F4600061EE80 /* FileDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B3E3B11C67F4600061EE80 /* FileDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		18B3E3A91C6725930061EE80 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingsViewController.swift; path = Dropbox/SettingsViewController.swift; sourceTree = SOURCE_ROOT; };
 		18B3E3AB1C672A1D0061EE80 /* ExistingPhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExistingPhotosViewController.swift; path = Dropbox/ExistingPhotosViewController.swift; sourceTree = SOURCE_ROOT; };
 		18B3E3AD1C672C650061EE80 /* SignInTroubleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SignInTroubleViewController.swift; path = Dropbox/SignInTroubleViewController.swift; sourceTree = SOURCE_ROOT; };
+		18B3E3B11C67F4600061EE80 /* FileDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				18B3E38D1C6645870061EE80 /* AppDelegate.swift */,
 				18B3E38F1C6645870061EE80 /* ViewController.swift */,
 				18B3E3911C6645870061EE80 /* Main.storyboard */,
+				18B3E3B11C67F4600061EE80 /* FileDetailsViewController.swift */,
 				18B3E39F1C66FCA10061EE80 /* CreateAccountRootViewController.swift */,
 				18B3E3A51C6716590061EE80 /* SignInRootViewController.swift */,
 				18B3E3A11C670F1E0061EE80 /* CreateAccountViewController.swift */,
@@ -167,6 +170,7 @@
 				18B3E3A81C6722100061EE80 /* TermsOfServiceViewController.swift in Sources */,
 				18B3E3AE1C672C650061EE80 /* SignInTroubleViewController.swift in Sources */,
 				18B3E3A41C6714340061EE80 /* SignInViewController.swift in Sources */,
+				18B3E3B21C67F4600061EE80 /* FileDetailsViewController.swift in Sources */,
 				18B3E38E1C6645870061EE80 /* AppDelegate.swift in Sources */,
 				18B3E3AA1C6725930061EE80 /* SettingsViewController.swift in Sources */,
 			);
