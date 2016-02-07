@@ -34,10 +34,10 @@
 		18B3E3A11C670F1E0061EE80 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
 		18B3E3A31C6714340061EE80 /* SignInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 		18B3E3A51C6716590061EE80 /* SignInRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInRootViewController.swift; sourceTree = "<group>"; };
-		18B3E3A71C6722100061EE80 /* TermsOfServiceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TermsOfServiceViewController.swift; path = ../TermsOfServiceViewController.swift; sourceTree = "<group>"; };
-		18B3E3A91C6725930061EE80 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingsViewController.swift; path = ../SettingsViewController.swift; sourceTree = "<group>"; };
-		18B3E3AB1C672A1D0061EE80 /* ExistingPhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExistingPhotosViewController.swift; path = ../ExistingPhotosViewController.swift; sourceTree = "<group>"; };
-		18B3E3AD1C672C650061EE80 /* SignInTroubleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SignInTroubleViewController.swift; path = ../SignInTroubleViewController.swift; sourceTree = "<group>"; };
+		18B3E3A71C6722100061EE80 /* TermsOfServiceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TermsOfServiceViewController.swift; path = Dropbox/TermsOfServiceViewController.swift; sourceTree = SOURCE_ROOT; };
+		18B3E3A91C6725930061EE80 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingsViewController.swift; path = Dropbox/SettingsViewController.swift; sourceTree = SOURCE_ROOT; };
+		18B3E3AB1C672A1D0061EE80 /* ExistingPhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExistingPhotosViewController.swift; path = Dropbox/ExistingPhotosViewController.swift; sourceTree = SOURCE_ROOT; };
+		18B3E3AD1C672C650061EE80 /* SignInTroubleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SignInTroubleViewController.swift; path = Dropbox/SignInTroubleViewController.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -316,6 +316,7 @@
 				18B3E39E1C6645870061EE80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
