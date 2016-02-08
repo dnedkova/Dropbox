@@ -26,9 +26,11 @@ Submitted by: Diana Nedkova
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's walkthrough demos of implemented user stories:
 
 <img src='/dropbox.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='/dropbox-welcome.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
