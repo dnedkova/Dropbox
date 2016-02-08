@@ -3,7 +3,6 @@ Dropbox for CodePath
 
 Submitted by: Diana Nedkova
 
-Time spent: 3 hours spent in total
 
 
 ## Project Requirements
@@ -18,7 +17,7 @@ Time spent: 3 hours spent in total
       * User can log out from the Settings screen.
 * [x] Optional: Add a detail view for one of the files and implement favoriting the file. Configure a Button
 * [ ] Optional: Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard. Dismissing the Keyboard
-* [ ] Optional: You should be able to swipe through the welcome screens instead of just tapping them.
+* [x] Optional: You should be able to swipe through the welcome screens instead of just tapping them.
       * Create a custom free form view controller that is wide enough for 4 screens. Creating Custom View Controllers, Creating a Free Form View Controller
       * Add a UIScrollView with paging enabled.
       * Add 4 UIImageViews for the welcome screens
@@ -27,9 +26,11 @@ Time spent: 3 hours spent in total
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's walkthrough demos of implemented user stories:
 
 <img src='/dropbox.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='/dropbox-welcome.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
